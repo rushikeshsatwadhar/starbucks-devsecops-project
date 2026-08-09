@@ -2,7 +2,7 @@
 #this script belong to "CLOUDASEEM" YOUTUBE CHANNEL
 
 # Define Prometheus version
-PROMETHEUS_VERSION="2.51.2"
+PROMETHEUS_VERSION="3.13.2"
 
 # Update system and install necessary packages
 echo "Updating system and installing dependencies..."
